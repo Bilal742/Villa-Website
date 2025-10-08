@@ -17,23 +17,18 @@ Users can view villa details, check availability, and make bookings directly thr
 ## 🧰 Technologies Used
 - React JS  
 - HTML5  
-- CSS3 / Tailwind (if used)  
+- Tailwind 
 - JavaScript  
 
 ---
 
 ## 🚀 Live Demo
-[Add your live link here once deployed]
-
----
-
-## 📸 Screenshots
-(Add your website screenshots here)
+[https://jaded-example.surge.sh/]
 
 ---
 
 ## 📬 Contact
 Developed by **Bilal**  
-📧 [Add your email if you want]  
-🌐 [Add your portfolio link if available]
+📧 [bilalusman1291@gmail.com]  
+🌐 [http://sulky-plate.surge.sh/]
 
