@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Slide1 from "../../assets/Slider-Img/Slide1.jpg";
 import Slide2 from "../../assets/Slider-Img/Slide2.jpg";
-import Slide3 from "../../assets/Slider-Img/slide3.jpg";
+import Slide3 from "../../assets/Slider-Img/Slide3.jpg";
 
 
 const FullScreenSliderDirect = () => {
