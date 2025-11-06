@@ -29,7 +29,7 @@ Users can view villa details, check availability, and make bookings directly thr
 
 ## 🖼️ Preview
 
-![Luxury Villa Preview](./assets/)
+![Luxury Villa Preview](./assets/V.png)
 
 ---
 
