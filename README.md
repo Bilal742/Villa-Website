@@ -28,8 +28,11 @@ Users can view villa details, check availability, and make bookings directly thr
 ---
 
 ## 📬 Contact
-Developed by **Bilal**  
-📧 [bilalusman1291@gmail.com]  
-🌐 [https://imuhammadbilal.vercel.app/
+**Muhammad Bilal**  
+📧 bilalusman1291@gmail.com  
+🌐 [https://imuhammadbilal.vercel.app/]
+🐙 [https://github.com/Bilal742)]
 
->>>>>>> 60f7144a99d1ef9eaa6904943eeb116c85ceae63
+---
+
+⭐ **If you like this project, give it a star!**
