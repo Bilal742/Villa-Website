@@ -27,6 +27,12 @@ Users can view villa details, check availability, and make bookings directly thr
 
 ---
 
+## 🖼️ Preview
+
+![Luxury Villa Preview](./assets/)
+
+---
+
 ## 📬 Contact
 **Muhammad Bilal**  
 📧 bilalusman1291@gmail.com  
