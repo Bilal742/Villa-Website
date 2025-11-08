@@ -38,7 +38,7 @@ Check the website live here:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Bilal742/Muhammad-Bilal.git
+   git clone https://github.com/Bilal742/Villa-Website.git
 2. **Install Dependencies:**
    ```bash
    npm install
