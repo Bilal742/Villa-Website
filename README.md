@@ -30,7 +30,7 @@ Check the website live here:
 
 ## 🖼️ Preview
 
-![Luxury Villa Preview](/bg.png)
+![Luxury Villa Preview](/public/bg.png)
 
 ---
 
