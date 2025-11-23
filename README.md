@@ -8,7 +8,7 @@ Users can view villa details, check availability, and make bookings directly thr
 ## ✨ Features
 - 🏠 **Beautiful responsive UI** for all devices  
 - ⚛️ **Built with React JS**  
-- 📱 **Mobile-friendly design**  
+- 📱 **Mobile-friendly design**   
 - 🔍 **Browse and view villa details**  
 - 🛒 **Book villas directly** from the website  
 
