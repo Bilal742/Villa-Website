@@ -51,6 +51,7 @@ Check the website live here:
 
 👨‍💻 **Muhammad Bilal**  
 📧 [bilalusman1291@gmail.com](mailto:bilalusman1291@gmail.com)  
+🌐 [Portfolio](https://imuhammad-bilal.vercel.app/)  
 🐙 [GitHub Profile](https://github.com/Bilal742)
 
 ---
